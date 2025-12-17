@@ -1,0 +1,6 @@
+Twin Prime are the prime numbers whose difference is 2 such as (3, 5), (5, 7), (11, 13). Write a program to display
+all twin prime numbers from 1 to n. Where n is the last range that is to be inputted by the user.
+Methods to be created are:
+• prime () – method which will check whether the number is prime or not.
+• show () – which will print the twin prime numbers and will call the prime() method.
+• main() – which will call the show() method
