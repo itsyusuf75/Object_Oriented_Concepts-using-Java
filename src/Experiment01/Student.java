@@ -1,7 +1,5 @@
 package Experiment01;
 
-import java.sql.SQLOutput;
-
 public class Student {
     public void identity(String x, int y) {
         String name = x;
