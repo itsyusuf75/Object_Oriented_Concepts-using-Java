@@ -20,6 +20,7 @@ public class arrayelement_avg {
         arrayelement_avg v = new arrayelement_avg();
         v.sum();
         v.average();
+        
 
     }
     
